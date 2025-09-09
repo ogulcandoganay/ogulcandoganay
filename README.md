@@ -1,4 +1,4 @@
-### Teknoloji Setim (Technology Stack)
+### Technology Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
